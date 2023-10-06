@@ -1,8 +1,8 @@
-# React + Vite
+Notes for the Core Redux ...
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Topics :- 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. creating a store and using the reducer and dispatcher..
+2. used the logger middlewear..
+3. used the thunk middlewear for doing the api calls..
+4. multiple reducers using the combinerReducers....
